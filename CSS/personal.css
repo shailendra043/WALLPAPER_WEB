@@ -1,0 +1,50 @@
+html{
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    
+head{
+    background-attachment: pink;
+    padding: 40px 40px;
+    text-align: center;
+    margin: 40px;
+    object-position: center;
+    
+}
+h1{
+    justify-content: center;
+    align-self: center;
+    justify-items: center;
+    padding: 40px 40px;
+    text-align: center;
+    margin: 40px;
+    object-position: center;
+    
+
+}
+image{
+    justify-items: center;
+}
+body{
+   
+    border-color: rgb(201, 76, 76);
+    box-shadow: 20px30px 0px;
+    border: 20px 20px 20px 20px red;
+    padding: 40px 40px;
+    text-align: center;
+    margin: 40px;
+    object-position: center;
+    
+}
+p{
+    margin: auto;
+    margin-top: 200px;
+    margin-left: 10px;
+    padding: 10px;
+    width: 200px;
+    display: block;
+    border-radius: 20px;
+    column-gap: 40px;
+    column-count: 3;
+    column-rule: 4px double blueviolet;
+    
+    
+}

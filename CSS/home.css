@@ -1,0 +1,28 @@
+html{
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    font-size: 5mm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    box-shadow: 10px 10px 0px greenyellow;
+image-resolution: inherit;
+    padding: 40px;
+    background-repeat: no-repeat;
+    text-align: center;}
+img{
+    width: 300px;
+    height: 300px;
+}
+h1{
+    color: rgb(182, 21, 169);
+}
+p{
+    text-decoration: rgb(146, 192, 20);
+}
+P1{
+    color: rgb(20, 23, 201);
+    text-size-adjust: 5PX;
+}
+p1 img{
+    width:100%;
+    height: 300px;
+}

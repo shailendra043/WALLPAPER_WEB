@@ -1,0 +1,15 @@
+html{
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    font-size: 5mm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    box-shadow: 10px 10px 0px greenyellow;
+image-resolution: inherit;
+    padding: 40px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+P{
+    box-shadow: 10PX 10PX 5PX rgb(25, 80, 199);
+    padding: 20PX;
+}
